@@ -1,6 +1,8 @@
 # Awesome React Native
 A collection of the best React Native community libraries.
 
+Inspired by the [awesome](https://github.com/sindresorhus/awesome) list. Feel free to improve this list by contributing!
+
 ## Routing and navigation:
 - [**react-navigation**](https://github.com/react-navigation/react-navigation?tab=readme-ov-file) (Routing and navigation for your React Native apps)
 - [**expo-router**](https://github.com/expo/expo/tree/main/packages/expo-router) (Expo Router is a file-based router for React Native and web applications.)
