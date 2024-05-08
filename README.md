@@ -5,11 +5,11 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list. Feel fr
 
 ## Routing and navigation:
 - [**react-navigation**](https://github.com/react-navigation/react-navigation?tab=readme-ov-file) (Routing and navigation for your React Native apps)
-- [**expo-router**](https://github.com/expo/expo/tree/main/packages/expo-router) (Expo Router is a file-based router for React Native and web applications.)
+- [**expo-router**](https://github.com/expo/expo/tree/main/packages/expo-router) (Expo Router is a file-based router for React Native and web applications)
 
 ## State management:
-- [**zustand**](https://github.com/pmndrs/zustand) (🐻 Bear necessities for state management in React.)
-- [**Recoil**](https://github.com/facebookexperimental/Recoil) (Recoil is an experimental state management library for React apps. It provides several capabilities that are difficult to achieve with React alone, while being compatible with the newest features of React.)
+- [**zustand**](https://github.com/pmndrs/zustand) (🐻 Bear necessities for state management in React)
+- [**Jotai**](https://github.com/pmndrs/jotai) (👻 Primitive and flexible state management for React)
 
 ## Storage:
 - [**react-native-mmkv**](https://github.com/mrousavy/react-native-mmkv) (⚡️ The fastest key/value storage for React Native. ~30x faster than AsyncStorage!)
